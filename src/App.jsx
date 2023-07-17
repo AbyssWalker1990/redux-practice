@@ -1,7 +1,8 @@
+import Counter from "./features/counter/Counter";
 
 function App () {
   return (
-    <h1>Hello</h1>
+    <Counter />
   )
 }
 
